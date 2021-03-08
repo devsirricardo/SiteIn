@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    background-color: #1f1f1f;
+}
+.topo{
+    width: 100%;
+    max-width: 980px;
+    height: 480px;
+    margin: auto;  
+      
+}
+
+.topo1 {
+    height: 120px;
+}
+.banner {
+    height: 350px;
+    background-color: #434144;    
+}
+
+.menu {
+    width: 100%;  
+    max-width: 980px;
+    height: 50px;
+    background-color: #0166be;   
+    margin: auto;
+    margin-top: -10px;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu li{ 
+    height: 50x;   
+    line-height: 50px;
+    float: left;
+    padding-right: 10px; 
+    padding-left: 10px; 
+    color: #fff;  
+}
+
+.home_sobre {
+    padding-top: 20px;
+    padding-right: 20px; 
+}
+
+.home_sobre img {
+    float: left;      
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.home_sobre h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.home_portfolio{    
+    clear: both;
+    padding: 20px;
+}
+
+.portfolio_item{
+    width: 200px;
+    height: 150px;
+    float: left;
+    border: 3px solid #e2e8ee;  
+    margin: 10px;           
+}
+
+.container {
+    width: 100%;  
+    max-width: 980px;  
+    background-color: #ffff;   
+    margin: auto;    
+    min-height: 600px;
+}
+
+.rodape {
+    width: 100%;  
+    max-width: 980px; 
+    height: 90px;
+    background-color: #434144;
+    margin: auto;
+    margin-bottom: 30px;
+}
